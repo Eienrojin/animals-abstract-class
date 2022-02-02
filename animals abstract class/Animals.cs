@@ -28,7 +28,7 @@ namespace animals_abstract_class
 
         public override string ToString()
         {
-            return $"Имя - {Name}\n Возраст - {Age}\n Вес - {Weight}";
+            return $"Имя - {Name}\nВозраст - {Age}\nВес - {Weight}\n";
         }
     }
 }
